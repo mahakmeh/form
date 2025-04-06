@@ -1,0 +1,7 @@
+streamlit
+google-cloud-speech
+fpdf2
+requests
+numpy
+sounddevice
+google-auth
